@@ -36,7 +36,7 @@ object terere{
 object cianuro {
   method rendimientoProvocadoEnDosis_(dosis){
     return(
-       0
+       0.0
     )
   }
 }
